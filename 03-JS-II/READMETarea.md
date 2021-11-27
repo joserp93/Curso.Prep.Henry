@@ -1,0 +1,2 @@
+* `for` Un for se usa cuando queremos repetir un conjunto de instrucciones un número finito de veces o infinitina veces. es como algo ciclico que siempre se repite.
+* `&&`, `||`, `!` Son operadores logicos para hacer las condiciones, el && es para decir que se tiene cumplir las condiciones, el || es para decir que se puede cumplir alguna de las condiciones. el ! es para negar el resultado de una condicion. 
