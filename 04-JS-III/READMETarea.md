@@ -1,0 +1,1 @@
+* Arrays : Los Arrays son como colecciones de un mismo tipo y de varios tipo de datos, es una estrutura muy util para almacer valores que esten concatenados y bajo un mismo nombre.
