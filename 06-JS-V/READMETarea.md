@@ -1,0 +1,2 @@
+* `prototype` :  las funciones pueden tener propiedades. Todas las funciones tienen una propiedad especial llamada prototype , que por mendiente la cual se agregar propiedades al objeto.
+* _Constructors_ (de Clases) : Se le llama constructor a un tipo especial de método de una clase y contiene los valores iniciales para iniciar una clase, que se ejecuta automáticamente a la hora de hacer un new de dicha clase. Una clase solo puede tener un constructor, y en el caso de que no se especifique un constructor a una clase, tendrá uno vacío de forma implícita.
