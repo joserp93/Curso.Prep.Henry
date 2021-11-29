@@ -1,0 +1,1 @@
+* Funciones Callback: Un callback (llamada de vuelta) es una función que recibe como argumento otra función y la ejecuta.
